@@ -208,3 +208,5 @@ main {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  /* I readjusted everything to work on a smaller screen by changing some of the font colors and changing font/image sizes as well as setting everything as a column instead of a row. I hope this is enough i still have a lot to learn with media query :( */
